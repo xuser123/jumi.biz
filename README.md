@@ -1,5 +1,5 @@
 # [jumi.biz](https://xuser123.github.io/jumi.biz)
-topics:
+is about
 - linux
 - shell
 - syntax
